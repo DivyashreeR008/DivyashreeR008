@@ -1,4 +1,5 @@
-**Hi! I'm Divya Shree R,** a Computer Science Engineering student from Chennai Institute of Technology, passionate about building real-world solutions using technology.
+#**Hi! I'm Divya Shree R,** 
+I am a Computer Science Engineering student from Chennai Institute of Technology, passionate about building real-world solutions using technology.
 
 🎓 CSE Student exploring AI & Automation
 
@@ -17,7 +18,13 @@
 🧩 Solve problems with efficient and scalable solutions
 
 # 💫 About Me:
-Hi! I'm Divya Shree R, a Computer Science Engineering student from Chennai, passionate about building real-world solutions using technology.<br><br>🎓 CSE Student exploring AI & Automation<br>🚀 Head of Dnyx Tech, focused on creating impactful tech solutions<br>💡 Enthusiastic about solving real-world problems through innovation<br>🌱 Continuously learning and improving my technical and leadership skills<br>⚡ What I Do<br>🤖 Explore Artificial Intelligence & Automation<br>💻 Develop practical, real-world applications<br>🧩 Solve problems with efficient and scalable solutions
+I’m a full‑stack developer with a strong focus on system design, data‑driven applications, and automation. I enjoy turning complex business logic into clean, maintainable code while experimenting with modern frameworks and cloud‑native patterns.
+
+**Key interests:**<br>
+Scalable backend systems and microservices.<br>
+Event‑driven architectures and message brokers.<br>
+AI‑driven automation for productivity and business workflows.<br>
+Clean, consistent developer experience and documentation.<br>
 
 
 ## 🌐 Socials:
