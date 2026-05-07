@@ -1,4 +1,4 @@
-#**Hi! I'm Divya Shree R,** 
+# Hi! I'm Divya Shree R 
 I am a Computer Science Engineering student from Chennai Institute of Technology, passionate about building real-world solutions using technology.
 
 🎓 CSE Student exploring AI & Automation
